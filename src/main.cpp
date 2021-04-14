@@ -5,8 +5,8 @@
 #include <SPI.h>
 #include <TFT_eSPI.h>
 
-#define ssid "Palixmajo"
-#define password "26540mj522"
+#define ssid ""
+#define password ""
 
 #define TFT_AQUA 0x04FF
 #define TFT_GRAY 0x8410
